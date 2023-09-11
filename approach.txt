@@ -1,0 +1,6 @@
+
+//? Parent: Card
+//TODO: 
+Child: card input 1(bill)
+Child: percent button(selected)
+Child: card input(people) 
